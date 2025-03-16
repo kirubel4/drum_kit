@@ -21,4 +21,4 @@ To get a local copy of the project up and running, follow these simple steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/drum-kit-game.git
+   git clone https://github.com/kirubel4/drum_kit.git
